@@ -1,4 +1,3 @@
-koyama
+code for random play
 ======
 
-小山さんに頼まれたやつ
